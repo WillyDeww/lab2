@@ -50,3 +50,40 @@ span {
     background-color: rgb(235, 190, 94);
     left: 130px;
 }
+h1 {
+    color: rgb(99, 76, 47);
+}
+.original {
+    color: cadetblue;
+}
+.additional {
+    color: cornflowerblue;
+}
+#show1 {
+    color: coral;
+}
+#show2 {
+    color: aliceblue;
+}
+#show3 {
+    color: crimson;
+}
+#show4 {
+    color: darkkhaki;
+}
+#show5 {
+    color: hotpink;
+}
+
+ul {
+    color: darkmagenta;
+}
+.star {
+    color: green;
+}
+#wars {
+    color: honeydew;
+}
+.ulDiv {
+    border: 2px solid black;
+}
