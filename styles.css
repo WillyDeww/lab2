@@ -23,8 +23,8 @@ span {
 
 .boxes {
     display: block;
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
     border: solid red;
     border-radius: 15px;
     width: 30em;
@@ -40,4 +40,13 @@ span {
 }
 #boxN {
     background-color: rgb(250, 104, 133);
+}
+
+.divImg {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(235, 190, 94);
+    left: 130px;
 }
