@@ -15,3 +15,32 @@ a:hover {
     font: bold;
     color: limegreen;
 }
+
+span {
+    color: chocolate;
+    font-weight: 500;
+}
+
+.boxes {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: solid red;
+    border-radius: 15px;
+    width: 30em;
+}
+#box1 {
+    background-color: aquamarine;
+}
+#box2 {
+    background-color: cornflowerblue;
+    position: relative;
+    bottom: 185px;
+    left: 485px;
+}
+#box3 {
+    background-color: rgb(247, 171, 158);
+}
+#boxN {
+    background-color: rgb(250, 104, 133);
+}
